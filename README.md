@@ -3,4 +3,4 @@ This is my first repository.
 
 This is my first commit.
 
-Welcome to Github Sleepy!
+Welcome to Github Álmos!
